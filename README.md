@@ -1,1 +1,3 @@
-# goutil
+# go-utils
+
+go mod package
